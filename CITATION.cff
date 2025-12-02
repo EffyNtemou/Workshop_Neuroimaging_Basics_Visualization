@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Neuroimaging: basic workflow, visualisation & clinical tractography"
+authors:
+  - family-names: "Ntemou"
+    given-names: "Effy"
+    affiliation: "Cognitive Neurosurgery Düsseldorf, HHU & UKD"
+message: "If you use these workshop slides, please cite this repository."
+license: "CC-BY-NC-4.0"
+year: 2025
+url: "https://github.com/EffyNtemou/Workshop_Neuroimaging_Basics_Visualization"
